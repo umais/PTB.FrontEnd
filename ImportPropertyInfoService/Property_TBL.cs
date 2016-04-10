@@ -114,5 +114,8 @@ namespace ImportPropertyInfoService
         public string Client13 { get; set; }
         public string Client14 { get; set; }
         public string Client15 { get; set; }
+        public string SalesPrice { get; set; }
+        public string SalesDate { get; set; }
+        public string Town { get; set; }
     }
 }
