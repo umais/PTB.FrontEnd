@@ -1,0 +1,14 @@
+D:\Arif\PTB\PTB.DataAccess\bin\Release\PTB.DataAccess.dll
+D:\Arif\PTB\PTB.DataAccess\bin\Release\PTB.DataAccess.pdb
+D:\Arif\PTB\PTB.DataAccess\bin\Release\PTB.Entities.dll
+D:\Arif\PTB\PTB.DataAccess\bin\Release\PTB.Entities.pdb
+D:\Arif\PTB\PTB.DataAccess\obj\Release\PTB.DataAccess.csprojResolveAssemblyReference.cache
+D:\Arif\PTB\PTB.DataAccess\obj\Release\PTB.DataAccess.dll
+D:\Arif\PTB\PTB.DataAccess\obj\Release\PTB.DataAccess.pdb
+C:\Projects\Heartbeat\PTB\PTB.DataAccess\bin\Release\PTB.DataAccess.dll
+C:\Projects\Heartbeat\PTB\PTB.DataAccess\bin\Release\PTB.DataAccess.pdb
+C:\Projects\Heartbeat\PTB\PTB.DataAccess\bin\Release\PTB.Entities.dll
+C:\Projects\Heartbeat\PTB\PTB.DataAccess\bin\Release\PTB.Entities.pdb
+C:\Projects\Heartbeat\PTB\PTB.DataAccess\obj\Release\PTB.DataAccess.csprojResolveAssemblyReference.cache
+C:\Projects\Heartbeat\PTB\PTB.DataAccess\obj\Release\PTB.DataAccess.dll
+C:\Projects\Heartbeat\PTB\PTB.DataAccess\obj\Release\PTB.DataAccess.pdb
